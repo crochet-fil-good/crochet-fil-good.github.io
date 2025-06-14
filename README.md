@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="assets/css/custom.css">
 # Welcome to CrochetFilGood! 🧶
 ## Explore My Crochet Patterns
 Here you'll find detailed crochet patterns for various projects.
